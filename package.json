@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is for learning server-side programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalreddy114/node-server.git"
+  },
+  "author": "Vishal Reddy Vennavaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishalreddy114/node-server/issues"
+  },
+  "homepage": "https://github.com/Vishalreddy114/node-server#readme"
+}
